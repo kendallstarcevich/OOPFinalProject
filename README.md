@@ -1,20 +1,20 @@
 
-## Getting Started
+## Project Outline
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is my final project for my Object Oriented Programming class. I wrote a Java program to work as a quizzing tool. To run, execute the Main.java file. In order for it to work, JavaFX needs to be updated to the newest version on your machine. You can add/modify the questions being asked in the Main.java file using this structure: 
+<img width="843" alt="Screenshot 2024-09-16 at 11 24 43 AM" src="https://github.com/user-attachments/assets/43572798-58fe-4a9f-9c7d-5ad242be17b3">
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## What It Includes
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+The project contains each of the following programming elements:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+o Javadoc
 
-## Dependency Management
+o Unit Testing
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found 
-[here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+o Implementation of an Interface
+
+o An example of Inheritance
+
